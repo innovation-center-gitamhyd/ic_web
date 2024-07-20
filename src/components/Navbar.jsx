@@ -22,7 +22,7 @@ const Navbar = () => (
         className="w-[210px] h-[180px] object-contain"
       />
       <h2 className="font-extrabold text-[24px] leading-[30.24px] text-white">
-        Innovation Center
+        INNOVATION CENTER
       </h2>
       <img
         src="/ic_logo.png"
