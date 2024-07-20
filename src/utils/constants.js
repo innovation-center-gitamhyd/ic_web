@@ -9,7 +9,7 @@ export const exploreWorlds = [
     {
       id: 'world-2',
       imgUrl: '/mech_electro.jpg',
-      title: 'Mech Electro Builders',
+      title: 'Mechatro Builders',
       description: 'Dynamic team creating cutting-edge robotics and electronic systems with passion and creativity.',
     },
     {
