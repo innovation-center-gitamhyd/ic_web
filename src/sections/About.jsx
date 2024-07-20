@@ -23,8 +23,7 @@ const About = () => (
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white">Innovation Center</span> is a new
-        s a dynamic and forward-thinking student tech club that fosters creativity, collaboration, and technological advancement among students.{' '}
+        <span className="font-extrabold text-white">Innovation Center</span> is a dynamic and forward-thinking student tech club that fosters creativity, collaboration, and technological advancement among students.{' '}
         <span className="font-extrabold text-white">
         It's a hub where bright minds converge to explore and innovate.
         </span>{' '}
